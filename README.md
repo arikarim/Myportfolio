@@ -2,6 +2,8 @@
   My Portfolio<br/>
   <a href="https://arikarim.github.io/Myportfolio/" target="_blank">Live Version</a>
 </h2>
+
+My personal portfolio website.
 <div align="center">
   <img alt="Demo" src="./Images/sc.png" />
 </div>
