@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Soumyajit-Behera.pdf";
+import pdf from "../../Assets/Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
@@ -42,43 +42,38 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="JUNIOR ML ENGINEER [Omdena]"
-              date="June 2020 - August 2020"
+              title="SOFTWARE ENGINEER"
+              date="Jan 2020 - Present"
               content={[
-                "Assembled the data from various social media platforms using Twitter, Reddit.Interpreted the collected text using word-clouds and various other factors that affect the change of sentiments of youth.",
-                " Utilized the data to find the issues using Topic Modelling and Building models using LSTM, BERT to predict the sentiments of the youth.",
+                "Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux.",
+                " Developed skills in remote pair-programming using GitHub, industry-standard gitflow, and daily standups to communicate and collaborate with international remote developers.",
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
-              title="Web Developer [Pantheon-2019 Technical Fest of BIT Mesra]"
+              title="Junior Developers Mentor [Microverse]"
               content={[
-                "Worked on creating the frontend-end of the website using Bootstrap, Javascript.",
+                "Mentored junior web developers, providing technical support through code reviews."
               ]}
             />
             <Resumecontent
-              title="Web Developer [Bitotsav-2020 Technical Fest of BIT Mesra]"
+              title="Technical Support Engineer [Microverse]"
               content={[
-                "Operated on developing the frontend end of the website using Bootstrap, Javascript and backend APIs using Node.js",
+                "Conducted multiple code reviews for junior developers on projects built with JavaScript, React, Ruby and Rails, identifying areas of improvement and improving overall code quality.",
               ]}
             />
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="IMSC MATHS AND COMPUTING [BIT Mesra, Ranchi] "
-              date="2018 - Present"
+              title="NURSING [College of Nursing, Sulaymaniah] "
+              date="2016 - 2020"
               content={[`CGPA: ${cgpa} (Till ${sem}th Sem)`]}
             />
             <Resumecontent
-              title="12TH BOARD [ODM Public School,Odisha]"
-              date="2015 - 2017"
-              content={["Precentage: 88%"]}
-            />
-            <Resumecontent
-              title="10TH BOARD [ST Mary's School,Odisha] "
-              date="2005 - 2015"
-              content={["Precentage: 86%"]}
+              title="6TH BOARD [LARE HIGH SCHOOL,Sulaymaniah]"
+              date="2015 - 2016"
+              content={["Precentage: 95%"]}
             />
             <h3 className="resume-title">Ranks and Achivements</h3>
             <Resumecontent
