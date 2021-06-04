@@ -1,46 +1,27 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+  My Portfolio<br/>
+  <a href="https://arikarim.github.io/Myportfolio/" target="_blank">Ari</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/sc.png" />
 </div>
 
 <br/>
 
-<center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
-</center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://arikarim.github.io/" target="_blank">Ari</a><br/>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
-- Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
@@ -64,11 +45,18 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
-## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+## Author
 
-### Show your support
+- GitHub: [@arikarim](https://github.com/arikarim)
+- LinkedIn: [AriKarim](https://www.linkedin.com/in/ari-karim-523bb81b3)
 
-Give a ⭐ if you like this website!
+## 🙋‍♂ show your support
+
+give a ⭐️ if you like this project!
+
+## 📝 license
+
+
+
+This project is [MIT](LICENSE) licensed.
