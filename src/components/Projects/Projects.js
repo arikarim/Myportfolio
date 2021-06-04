@@ -5,12 +5,10 @@ import BlogCard from "./BlogsCards";
 import Particle from "../Particle";
 
 import movie from "../../Assets/Projects/moviee.png";
-import emotion from "../../Assets/Projects/emotion.jpeg";
-import todo from "../../Assets/Projects/screen.png";
+import todo from "../../Assets/Projects/screen1.png";
 import weather from "../../Assets/Projects/s1.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import algo from "../../Assets/Projects/algo.png";
-import plant from "../../Assets/Projects/plant.jpeg";
+
+import fb from "../../Assets/Projects/fb.png";
 
 function Projects() {
   return (
@@ -53,27 +51,6 @@ function Projects() {
               link="https://github.com/arikarim/Todo-List"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-            />
-          </Col>
         </Row>
         <h1 className="project-heading">
           My Recent <strong className="purple">Blog </strong> Posts
@@ -82,17 +59,9 @@ function Projects() {
         <Row style={{ justifyContent: "center" }}>
           <Col md={4} className="blog-card">
             <BlogCard
-              imgPath={algo}
-              link=""
-              title="Cracking Interview"
-              site="gitbook.com"
-            />
-          </Col>
-          <Col md={4} className="blog-card">
-            <BlogCard
-              imgPath={plant}
-              link="https://medium.com/jovianml/plant-ai-c8fc95ed90e6"
-              title="Plant AI"
+              imgPath={fb}
+              link="https://arikarim146.medium.com/facebook-omniauth-with-devise-ruby-on-rails-29dcf83cbf19"
+              title="Login with Facebook in Rails 6 and Devise."
               site="medium.com"
             />
           </Col>
