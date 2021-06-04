@@ -14,7 +14,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://arikarim.github.io/" target="_blank">Ari</a><br/>
+My personal portfolio <a href="https://arikarim.github.io/Myportfolio" target="_blank">Live</a><br/>
 
 This project was built using these technologies.
 
