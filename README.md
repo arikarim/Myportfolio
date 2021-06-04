@@ -1,6 +1,6 @@
 <h2 align="center">
   My Portfolio<br/>
-  <a href="https://arikarim.github.io/Myportfolio/" target="_blank">Ari</a>
+  <a href="https://arikarim.github.io/Myportfolio/" target="_blank">Live Version</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/sc.png" />
