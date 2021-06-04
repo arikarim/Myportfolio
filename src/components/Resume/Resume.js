@@ -71,7 +71,7 @@ function Resume() {
               content={[`CGPA: ${cgpa} (Till ${sem}th Sem)`]}
             />
             <Resumecontent
-              title="6TH BOARD [LARE HIGH SCHOOL,Sulaymaniah]"
+              title="8TH BOARD [LARE HIGH SCHOOL,Sulaymaniah]"
               date="2015 - 2016"
               content={["Precentage: 95%"]}
             />
@@ -79,10 +79,8 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                `Current rank in Spoj ${spojRank}`,
-                `Current rank in HackerRank  ${hackerrank}`,
-                "Top Performer in Code-Break 1.0",
-                "Participant in Hack-A-Bit 2019",
+                `Current rank in Code Wars  7 kyu`,
+                "Winner of fishing race in 2011",
               ]}
             />
           </Col>
