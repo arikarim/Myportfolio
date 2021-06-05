@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {SiHeroku, SiRails, SiPostgresql } from "react-icons/si";
+import { SiRails, SiPostgresql } from "react-icons/si";
 import {
   DiJavascript1,
   DiReact,
@@ -10,7 +10,7 @@ import {
   DiSass,
   DiCss3
 } from "react-icons/di";
-import { SiRedux, SiTensorflow, SiFirebase } from "react-icons/si";
+import { SiRedux } from "react-icons/si";
 
 function Techstack() {
   return (
