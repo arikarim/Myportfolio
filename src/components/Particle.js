@@ -10,7 +10,7 @@ function Particle() {
             value: 160,
             density: {
               enable: true,
-              value_area: 1500,
+              value_area: 350,
             },
           },
           line_linked: {
@@ -19,10 +19,10 @@ function Particle() {
           },
           move: {
             direction: "right",
-            speed: 0.05,
+            speed: 0.1,
           },
           size: {
-            value: 1,
+            value: 1.5,
           },
           opacity: {
             anim: {
