@@ -7,6 +7,8 @@ import {
   AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { HiOutlineMail } from 'react-icons/hi';
+
 
 function Home2() {
   return (
@@ -91,16 +93,16 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              {/* <li className="social-icons">
+              <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="mailto:arikarim146@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <HiOutlineMail />
                 </a>
-              </li> */}
+              </li>
             </ul>
           </Col>
         </Row>
