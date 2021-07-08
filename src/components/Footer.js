@@ -5,6 +5,7 @@ import {
   AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { HiOutlineMail } from 'react-icons/hi';
 
 function Footer() {
   let date = new Date();
@@ -42,6 +43,14 @@ function Footer() {
                 style={{ color: "white" }}
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="mailto:arikarim146@gmail.com"
+                style={{ color: "white" }}
+              >
+                <HiOutlineMail />
               </a>
             </li>
           </ul>
