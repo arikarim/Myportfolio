@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c9ef8b.chunk.css",
-    "main.js": "/static/js/main.ba7e3f9b.chunk.js",
-    "main.js.map": "/static/js/main.ba7e3f9b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.884b346d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.884b346d.js.map",
+    "main.js": "/static/js/main.6863ac56.chunk.js",
+    "main.js.map": "/static/js/main.6863ac56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd9b6ddb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd9b6ddb.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.9d224aba.chunk.js": "/static/js/2.9d224aba.chunk.js",
-    "static/js/2.9d224aba.chunk.js.map": "/static/js/2.9d224aba.chunk.js.map",
-    "static/js/3.c5a75890.chunk.js": "/static/js/3.c5a75890.chunk.js",
-    "static/js/3.c5a75890.chunk.js.map": "/static/js/3.c5a75890.chunk.js.map",
+    "static/js/2.e913b489.chunk.js": "/static/js/2.e913b489.chunk.js",
+    "static/js/2.e913b489.chunk.js.map": "/static/js/2.e913b489.chunk.js.map",
+    "static/js/3.a5860072.chunk.js": "/static/js/3.a5860072.chunk.js",
+    "static/js/3.a5860072.chunk.js.map": "/static/js/3.a5860072.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.a1c9ef8b.chunk.css.map": "/static/css/main.a1c9ef8b.chunk.css.map",
-    "static/js/2.9d224aba.chunk.js.LICENSE.txt": "/static/js/2.9d224aba.chunk.js.LICENSE.txt",
+    "static/js/2.e913b489.chunk.js.LICENSE.txt": "/static/js/2.e913b489.chunk.js.LICENSE.txt",
     "static/media/Resume.d5a4aef9.pdf": "/static/media/Resume.d5a4aef9.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
     "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
@@ -22,13 +22,13 @@
     "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
     "static/media/moviee.7db2af2a.png": "/static/media/moviee.7db2af2a.png",
     "static/media/s1.896ab930.png": "/static/media/s1.896ab930.png",
-    "static/media/screen1.0e4c65f1.png": "/static/media/screen1.0e4c65f1.png"
+    "static/media/trend.21165542.png": "/static/media/trend.21165542.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.884b346d.js",
+    "static/js/runtime-main.bd9b6ddb.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.9d224aba.chunk.js",
+    "static/js/2.e913b489.chunk.js",
     "static/css/main.a1c9ef8b.chunk.css",
-    "static/js/main.ba7e3f9b.chunk.js"
+    "static/js/main.6863ac56.chunk.js"
   ]
 }
