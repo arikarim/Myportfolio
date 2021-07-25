@@ -7,7 +7,7 @@ import Particle from "../Particle";
 import movie from "../../Assets/Projects/moviee.png";
 import trend from "../../Assets/Projects/trend.png";
 import weather from "../../Assets/Projects/s1.png";
-
+import authenticate from "../../Assets/Projects/auth.jpg";
 import fb from "../../Assets/Projects/fb.png";
 
 function Projects() {
@@ -68,6 +68,15 @@ function Projects() {
               link="https://arikarim146.medium.com/facebook-omniauth-with-devise-ruby-on-rails-29dcf83cbf19"
               title="Login with Facebook in Rails 6 and Devise."
               site="medium.com"
+            />
+          </Col>
+
+          <Col md={6} lg={4} className="blog-card">
+            <BlogCard
+              imgPath={authenticate}
+              link="https://dev.to/arikarim/react-rails-authentication-api-with-devise-and-devise-jwt-back-end-part-dj"
+              title=" React-Rails authentication API with Devise and Devise-jwt(Back-end) part."
+              site="https://dev.to"
             />
           </Col>
         </Row>
