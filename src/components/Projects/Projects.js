@@ -29,8 +29,8 @@ function Projects() {
               isBlog={false}
               title="Trending Hub"
               description="Trending Hub is a Movie website application built with React, Users can see trending, TV Series, Movies, and Search for movies, also they can filter the results. "
-              link="https://github.com/arikarim/Trending-Hub"
-              link2="https://arikarim.github.io/Trending-Hub/"
+              link="https://github.com/arikarim/Trending-Hubb"
+              link2="https://arikarim.github.io/Trending-Hubb/"
             />
           </Col>
 
